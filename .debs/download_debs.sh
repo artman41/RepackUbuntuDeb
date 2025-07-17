@@ -1,0 +1,9 @@
+wget https://binaries2.erlang-solutions.com/ubuntu/pool/contrib/e/esl-erlang/esl-erlang_24.3.4.17-1~ubuntu~noble_amd64.deb
+wget https://binaries2.erlang-solutions.com/ubuntu/pool/contrib/e/esl-erlang/esl-erlang_25.3.2-1~ubuntu~xenial_amd64.deb 
+wget https://binaries2.erlang-solutions.com/ubuntu/pool/contrib/e/esl-erlang/esl-erlang_26.2.5-1~ubuntu~bionic_amd64.deb
+wget https://binaries2.erlang-solutions.com/ubuntu/pool/contrib/e/esl-erlang/esl-erlang_27.3.4-1~ubuntu~noble_amd64.deb
+wget http://mirror.nullivex.com/erlang/pool/esl-erlang_23.3.4.5-1~ubuntu~xenial_amd64.deb 
+wget http://mirror.nullivex.com/erlang/pool/esl-erlang_22.3.4.9-1~ubuntu~xenial_amd64.deb
+wget http://mirror.nullivex.com/erlang/pool/esl-erlang_21.3.8.9-1~ubuntu~xenial_amd64.deb
+wget http://mirror.nullivex.com/erlang/pool/esl-erlang_20.3.8.26-1~ubuntu~xenial_amd64.deb
+wget http://mirror.nullivex.com/erlang/pool/esl-erlang_19.3.6.13-1~ubuntu~xenial_amd64.deb

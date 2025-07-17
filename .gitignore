@@ -1,0 +1,3 @@
+*.deb
+.debs/*.deb
+.tmp/
